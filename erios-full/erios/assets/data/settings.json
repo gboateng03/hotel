@@ -1,0 +1,99 @@
+{
+    "custom_css": "",
+    "thememods": {
+        "osf_theme_custom_style": "",
+        "osf_theme_google_fonts": "https:\/\/fonts.googleapis.com\/css?family=PT+Serif%3A400%7CDM+Sans%3A700%7CDM+Sans%3A400&#038;subset=latin%2Clatin%2Clatin",
+        "osf_blog_archive_style": "1",
+        "osf_typography_general_heading_font": {
+            "family": "DM Sans",
+            "subsets": "latin",
+            "fontWeight": "700"
+        },
+        "osf_typography_general_body_font": {
+            "family": "PT Serif",
+            "subsets": "latin",
+            "fontWeight": "400"
+        },
+        "osf_typography_general_body_font_size": "16",
+        "osf_typography_general_heading_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": false
+        },
+        "osf_typography_page_title_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_page_title_heading_line_height": "30",
+        "osf_typography_page_title_breadcrumb_heading_line_height": "30",
+        "osf_typography_sidebar_title_letter_spacing": "0",
+        "osf_typography_sidebar_title_padding_top": "60",
+        "osf_typography_sidebar_title_padding_bottom": "60",
+        "osf_typography_sidebar_title_margin_top": "0",
+        "osf_typography_sidebar_title_margin_bottom": "40",
+        "osf_typography_sidebar_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_button_font_size": "12",
+        "osf_colors_general_primary": "#e4a853",
+        "osf_colors_general_secondary": "#333239",
+        "osf_colors_general_heading": "#000000",
+        "osf_colors_general_body": "#686868",
+        "background_color": "edebe5",
+        "osf_colors_page_title_heading_color": "#ffffff",
+        "osf_colors_page_title_breadcrumb_color": "#ffffff",
+        "osf_colors_sidebar_title_color": "#000000",
+        "osf_colors_sidebar_color": "#555555",
+        "osf_layout_general_content_width_px": "1320",
+        "osf_layout_general_gutter_width": "30",
+        "osf_layout_general_content_width_padding": "15",
+        "osf_layout_general_layout_mode": "wide",
+        "osf_layout_general_layout_boxed_width": "1170",
+        "osf_layout_general_layout_boxed_offset": "30",
+        "osf_layout_page_title_style": "right-left",
+        "osf_layout_page_title_height": "210",
+        "osf_header_enable_builder": true,
+        "osf_header_builder": "header-02",
+        "osf_fixed_footer": false,
+        "osf_footer_layout": "footer-01",
+        "osf_back_to_top_footer": true,
+        "osf_typography_page_title_heading_font_size": "36",
+        "osf_colors_page_title_bg_position": "center top",
+        "osf_layout_page_title_padding_top": "20",
+        "osf_layout_page_title_padding_bottom": "20",
+        "osf_colors_page_title_breadcrumb_color_hover": "#ebbc79",
+        "osf_colors_page_title_bg": "#333239",
+        "osf_layout_pagination_style": "4",
+        "osf_socials": true,
+        "osf_typography_general_tertiary_font": {
+            "family": "DM Sans",
+            "subsets": "latin",
+            "fontWeight": "400"
+        },
+        "osf_colors_buttons_enable_custom": false,
+        "osf_typography_button_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": false
+        },
+        "osf_colors_page_title_bg_repeat": true,
+        "osf_dev_mode": "true",
+        "osf_starter_settings": true,
+        "custom_css_post_id": -1,
+        "custom_logo": 20,
+        "osf_typography_buttom_letter_spacing": "0",
+        "osf_colors_page_title_bg_image": "http:\/\/localhost\/wordpress\/erios\/wp-content\/uploads\/2019\/12\/breadcrumb-bg.jpg",
+        "osf_page_404_bg_repeat": true,
+        "osf_room_archive_column": "2",
+        "osf_room_archive_style": "1",
+        "osf_page_404_page_enable": "custom",
+        "osf_page_404_page_custom": "2339"
+    }
+}
